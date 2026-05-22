@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=280&section=header&text=FLAME%20UNLOCKER&fontSize=55&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=UNLEASH%20THE%20BEAST&descAlign=50" width="100%" alt="Flame Unlocker Banner">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff4500,100:800000&height=300&section=header&text=FLAME%20UNLOCKER&fontSize=75&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=UNLEASH%20THE%20BEAST&descAlign=50&descSize=25" width="100%" alt="Flame Unlocker Banner">
 
 [![Root Required](https://img.shields.io/badge/Root-Required-red.svg?style=for-the-badge&logo=android)](https://github.com/not-GIANT/Flame-Unlocker)
 [![Magisk](https://img.shields.io/badge/Magisk-Module-3ea6ff.svg?style=for-the-badge&logo=magisk)](https://github.com/topjohnwu/Magisk)
