@@ -1,62 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=280&section=header&text=FLAME%20UNLOCKER&fontSize=50&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=UNLEASH%20THE%20BEAST&descAlign=50" width="100%" alt="Flame Unlocker Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=280&section=header&text=FLAME%20UNLOCKER&fontSize=55&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=UNLEASH%20THE%20BEAST&descAlign=50" width="100%" alt="Flame Unlocker Banner">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ROOT-REQUIRED-red?style=for-the-badge&logo=android&logoColor=white" alt="Root Required">
-  <img src="https://img.shields.io/badge/MAGISK-MODULE-3ea6ff?style=for-the-badge&logo=magisk&logoColor=white" alt="Magisk Module">
-  <img src="https://img.shields.io/badge/FPS-144%20UNLOCKED-success?style=for-the-badge&logo=speedtest&logoColor=white" alt="144 FPS Unlocked">
-  <img src="https://img.shields.io/badge/VERSION-1.0.0-orange?style=for-the-badge" alt="Version">
-</p>
+[![Root Required](https://img.shields.io/badge/Root-Required-red.svg?style=for-the-badge&logo=android)](https://github.com/not-GIANT/Flame-Unlocker)
+[![Magisk](https://img.shields.io/badge/Magisk-Module-3ea6ff.svg?style=for-the-badge&logo=magisk)](https://github.com/topjohnwu/Magisk)
+[![FPS](https://img.shields.io/badge/FPS-144%20Unlocked-success.svg?style=for-the-badge&logo=speedtest)](https://github.com/not-GIANT/Flame-Unlocker)
+[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg?style=for-the-badge)](https://github.com/not-GIANT/Flame-Unlocker/releases)
 
 <h1>🔥 IGNITE YOUR PERFORMANCE 🔥</h1>
 
-<p>
-<b>Stop playing with limits. Start playing with fire.</b><br>
-Flame Unlocker shatters the boundaries of your hardware, spoofing your device as the <b>Redmagic 11 Pro</b> (NX809J) to unlock the ultimate 144 FPS experience and maximum graphical settings in PUBG Mobile, BGMI, CODM, and more.
-</p>
+**Break free from software-imposed hardware limits.**
 
+Flame Unlocker is a high-performance system configuration module that redefines your gaming experience. By meticulously spoofing your hardware signature as the **Redmagic 11 Pro (NX809J)**, it bypasses FPS caps and graphical restrictions in top-tier mobile titles.
+
+[**Download Latest Release**](https://github.com/not-GIANT/Flame-Unlocker/releases) • [**Report Issues**](https://github.com/not-GIANT/Flame-Unlocker/issues)
+
+---
+
+</div>
+
+## 🚀 Key Advantages
+
+| Feature | Description |
+| :--- | :--- |
+| **144 FPS Unlock** | Forces games to recognize high-refresh capabilities, enabling ultra-smooth 144Hz output. |
+| **Maximized Graphics** | Unlocks UHD, Extreme, and 90/120/144 FPS options in PUBG, BGMI, CODM, and Genshin. |
+| **Elite Identity** | Spoofs the **NX809J** (Redmagic 11 Pro) across all system property levels. |
+| **Android 15/16 Ready** | Optimized for modern property management in the latest Android builds. |
+| **Native Integration** | Injects at the system level via Magisk/Kitsune for zero-latency performance. |
+
+---
+
+## 🛠️ Technical Profile
+
+The module targets the following system properties to ensure a seamless "Identity Shift":
+
+```bash
+# Redmagic 11 Pro Signature (NX809J)
+ro.product.model=NX809J
+ro.product.odm.model=NX809J
+ro.product.system.model=NX809J
+ro.product.vendor.model=NX809J
+ro.product.system_ext.model=NX809J
+```
+
+---
+
+## 📦 Installation Protocol
+
+### **Prerequisites**
+*   **Root Access:** Magisk v24.0+ or equivalent.
+*   **High Refresh Rate:** A display capable of 90Hz/120Hz/144Hz (Hardware limitation).
+
+### **Steps to Ignite**
+1.  **Obtain:** Download the `flame-unlocker.zip` from the [Releases](https://github.com/not-GIANT/Flame-Unlocker/releases) page.
+2.  **Manager:** Open your **Magisk App** and navigate to the `Modules` section.
+3.  **Deploy:** Select `Install from Storage` and pick the zip file.
+4.  **Verify:** Wait for the custom 🔥 **FLAME UNLOCKER** 🔥 banner to appear in the terminal.
+5.  **Finalize:** Reboot your device to apply the new system signature.
+
+---
+
+## 📷 Performance Preview
+
+<div align="center">
+  <img src="Screenshot.PNG" width="85%" alt="Performance Preview">
+  <p><i>Unlocking peak performance on supported hardware.</i></p>
 </div>
 
 ---
 
-### 🚀 FEATURES
-* ✅ **Unlocks 144 FPS** (Game & Hardware Dependent)
-* ✅ **Unlocks Extreme/UHD Graphics**
-* ✅ **Redmagic 11 Pro Device Spoofing**
-* ✅ **Optimized for High Refresh Rate Displays**
-* ✅ **Android 15/16 Ready** (System Property Spoofing)
-* ✅ **Battery Safety** (Standard thermal profiles retained)
+## ⚠️ Disclaimer & Safety
+
+> [!CAUTION]
+> **Performance comes at a cost.** Running games at 144 FPS increases GPU load, power consumption, and thermal output.
+> 
+> *   This module does **not** overclock hardware; it unlocks software limits.
+> *   **GIANT** is not responsible for hardware fatigue, battery degradation, or account bans.
+> *   Always monitor your device temperatures during extended sessions.
 
 ---
 
-## 🛠️ INSTALLATION PROTOCOL
-
-> **REQUIREMENTS:** A rooted Android device with Magisk v24.0+ installed.
-
 <div align="center">
 
-**FOLLOW THESE STEPS TO IGNITE**
-
-</div>
-
-1.  **DOWNLOAD** the latest zip file.
-2.  **LAUNCH** the **Magisk App** on your device.
-3.  **NAVIGATE** to the `Modules` tab.
-4.  **SELECT** `Install from Storage` and locate the `flame-unlocker.zip`.
-5.  **FLASH** the file and wait for the "FLAME UNLOCKER" banner to appear.
-6.  **REBOOT** your system to apply changes.
-
----
-
-## ⚠️ DISCLAIMER & LIABILITY
-
-> [!IMPORTANT]
-> **USE AT YOUR OWN RISK.**
-> Running games at 144 FPS increases GPU load and heat. This module uses safe device identification spoofing, but **GIANT** is not responsible for any hardware damage or battery degradation.
-
-<div align="center">
-
-### MADE WITH 🔥 BY GIANT
+### MADE WITH 🔥 BY [GIANT](https://github.com/not-GIANT)
 
 </div>
