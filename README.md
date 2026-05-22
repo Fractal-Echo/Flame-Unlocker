@@ -22,7 +22,7 @@ Flame Unlocker is a high-performance system configuration module that redefines 
 | Feature | Description |
 | :--- | :--- |
 | **144 FPS Unlock** | Forces games to recognize high-refresh capabilities, enabling ultra-smooth 144Hz output. |
-| **Maximized Graphics** | Unlocks UHD, Extreme, and 90/120/144 FPS options in PUBG, BGMI, CODM, and Genshin. |
+| **Maximized Graphics** | Unlocks UHD, Extreme, and 90/120/144 FPS options in PUBG, BGMI, CODM. |
 | **Elite Identity** | Spoofs the **NX809J** (Redmagic 11 Pro) across all system property levels. |
 | **Android 15/16 Ready** | Optimized for modern property management in the latest Android builds. |
 
