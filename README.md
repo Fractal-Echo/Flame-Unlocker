@@ -46,7 +46,7 @@ ro.product.system_ext.model=NX809J
 
 ---
 
-## 📦 Installation Protocol
+## 📦 Installation 
 
 ### **Prerequisites**
 *   **Root Access:** Magisk v24.0+ or equivalent.
@@ -76,7 +76,7 @@ ro.product.system_ext.model=NX809J
 > **Performance comes at a cost.** Running games at 144 FPS increases GPU load, power consumption, and thermal output.
 > 
 > *   This module does **not** overclock hardware; it unlocks software limits.
-> *   **GIANT** is not responsible for hardware fatigue, battery degradation, or account bans.
+> *   I am not responsible for hardware fatigue, battery degradation, or account bans.
 > *   Always monitor your device temperatures during extended sessions.
 
 ---
